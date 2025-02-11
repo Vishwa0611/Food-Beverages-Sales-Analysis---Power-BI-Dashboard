@@ -36,7 +36,7 @@ Background Color: Changed from the Format pane under Canvas Background.
 Themes: Customized under the View tab.
 Interactivity: Added slicers for ProductCategory, Channel, and Year.
 
-Future Enhancements
+	Future Enhancements
 🔹 Implement forecasting for revenue trends.
 🔹 Add AI insights for deeper business recommendations.
 🔹 Automate data refresh for real-time reporting.
