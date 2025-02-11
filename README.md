@@ -10,6 +10,7 @@ Objective
 --To improve decision-making through data insights.
 
 Features
+
 ✅ Revenue Analysis: Calculates total revenue using Revenue = SUM(Sales[Sales]).
 ✅ Total Quantity Sold: Tracked using Total Quantity = SUM(Sales[Quantity]).
 ✅ Total Orders: Counted using Total Order = DISTINCTCOUNT(Sales[OrderNumber]).
@@ -18,6 +19,7 @@ Features
 ✅ Filters & Slicers: Interactive controls for better exploration.
 
 Dataset Used-
+
 Sales Data: Includes OrderDate, Quantity, UnitPrice, Salesperson, Manager, and Channel.
 Product Data: Contains ProductCategory, ProductName, and ProductGroup.
 Power BI Measures Used
@@ -27,6 +29,7 @@ Power BI Measures Used
 --Total Order = DISTINCTCOUNT(Sales[OrderNumber])
 
 Dashboard Customization
+
 Background Color: Changed from the Format pane under Canvas Background.
 Themes: Customized under the View tab.
 Interactivity: Added slicers for ProductCategory, Channel, and Year.
