@@ -1,9 +1,11 @@
 # Food-Beverages-Sales-Analysis---Power-BI-Dashboard
 
 Overview
+
 This Power BI dashboard provides insights into sales performance, revenue trends, and business metrics for a Food & Beverages company. It includes key visualizations such as revenue by year, channel, salesperson, manager, and product category, helping stakeholders make data-driven decisions.
 
 Objective
+
 --To analyze sales data and track business growth over time.
 --To identify top-performing sales channels, managers, and products.
 --To visualize order trends and revenue contributions.
